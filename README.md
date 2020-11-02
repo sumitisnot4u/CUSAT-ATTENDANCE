@@ -9,7 +9,7 @@ It uses the most reliable way of uniquely identifying students through an androi
 
 Modules:
 
-31)Admin : 
+#1)Admin : 
 •	Login : Need to enter login credentials into web interface by the admin or the authorized person.
 •	Add/Modify Student:  Can add new student into the system or modify the existing student detail’s.
 
@@ -18,7 +18,7 @@ Modules:
 •	Add/Modify Course:  Can add new courses into system, Assign course to specific teacher and update course details
 •	View Attendance : Here, admin can view student attendance by course wise and by selecting specific student by His/her Name.
 
-32)Teacher : 
+#2)Teacher : 
 •	Login : Need to enter login credentials into system by the admin or the authorized person.
 •	Courses: here, teacher can see all the courses assign to him/her by the admin.
 •	View Student: here, teacher can see student list by just selecting the course.
@@ -26,17 +26,17 @@ Modules:
 •	View Attendance : Here, teacher can view student attendance by course wise and by selecting specific student by His/her Name. 
 •	Change Password:  If teacher want to change their current password then here Hi/She will achieve that.
 
-33)Student :
+#3)Student :
 •	Login : Need to enter login credentials into system by the admin or the authorized person.
 •	Home: On home or Dashboard page student can see their own details along with course and its tutor Name.
 •	View Attendance: here, student can view their own attendance by selecting the specific dates and course.
 •	Change Password: If student want to change their current password then here Hi/She will do that.
 
 
-Front End: Android 
+#Front End: Android 
 Backend: SQL Server 2008
 
-3Hardware Requirement:
+#Hardware Requirement:
 	i3 Processor Based Computer
 	1GB-RAM
 	80 GB Hard Disk 
@@ -54,10 +54,10 @@ Software Requirement:
 •	It maintains the records in a large database instead of conventional method of maintaining register which further simplifies the process of searching for a particular record.
 •	The system introduces a manageable and systematic approach of maintain attendance records.
 •	It saves user time, cost and institute resources.
-3Disadvantages:
+#Disadvantages:
 •	The only disadvantage is that every teacher requires android phone to access the system.
 •	There should also be a Wi-Fi or internet connection available in every class. 
-Applications:
+#Applications:
 •	The system can be used for schools, college, or universities for taking down attendance.
 •	The system can be used during parents meeting to show parents about their children's attendance performance.
 •	It can also be implemented in organizations for attendance.
