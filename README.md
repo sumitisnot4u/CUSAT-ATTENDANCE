@@ -1,3 +1,5 @@
+#DOWNLOAD THE WHOLE APP BY CLICKING ON ZIP FOLDER -> VIEW RAW
+
 # CUSAT-ATTENDANCE
 CUSAT TASK  MANAGEMENT APP 
 
@@ -7,7 +9,7 @@ It uses the most reliable way of uniquely identifying students through an androi
 
 Modules:
 
-1)Admin : 
+31)Admin : 
 •	Login : Need to enter login credentials into web interface by the admin or the authorized person.
 •	Add/Modify Student:  Can add new student into the system or modify the existing student detail’s.
 
@@ -16,7 +18,7 @@ Modules:
 •	Add/Modify Course:  Can add new courses into system, Assign course to specific teacher and update course details
 •	View Attendance : Here, admin can view student attendance by course wise and by selecting specific student by His/her Name.
 
-2)Teacher : 
+32)Teacher : 
 •	Login : Need to enter login credentials into system by the admin or the authorized person.
 •	Courses: here, teacher can see all the courses assign to him/her by the admin.
 •	View Student: here, teacher can see student list by just selecting the course.
@@ -24,7 +26,7 @@ Modules:
 •	View Attendance : Here, teacher can view student attendance by course wise and by selecting specific student by His/her Name. 
 •	Change Password:  If teacher want to change their current password then here Hi/She will achieve that.
 
-3)Student :
+33)Student :
 •	Login : Need to enter login credentials into system by the admin or the authorized person.
 •	Home: On home or Dashboard page student can see their own details along with course and its tutor Name.
 •	View Attendance: here, student can view their own attendance by selecting the specific dates and course.
@@ -34,7 +36,7 @@ Modules:
 Front End: Android 
 Backend: SQL Server 2008
 
-Hardware Requirement:
+3Hardware Requirement:
 	i3 Processor Based Computer
 	1GB-RAM
 	80 GB Hard Disk 
@@ -46,13 +48,13 @@ Software Requirement:
 	Windows 7 or higher
 	Android Studio 
 	SQL Server 2008
-Advantages: 
+#Advantages: 
 •	It excludes the use of paper work and human efforts.
 •	The system is helpful as it generates a systematic overall report of every class attendance.
 •	It maintains the records in a large database instead of conventional method of maintaining register which further simplifies the process of searching for a particular record.
 •	The system introduces a manageable and systematic approach of maintain attendance records.
 •	It saves user time, cost and institute resources.
-Disadvantages:
+3Disadvantages:
 •	The only disadvantage is that every teacher requires android phone to access the system.
 •	There should also be a Wi-Fi or internet connection available in every class. 
 Applications:
